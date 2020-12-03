@@ -4,7 +4,7 @@ import Expert from '../../assets/experts.png'
 import SubmitForm from '../sumbitform/sumbitform.js';
 import BottomNav from '../bottomnav/bottomnav.js';
 import Nav from '../../assets/icons8-menu-24.png'
-
+import Grid from '@material-ui/core/Grid';
 function OurexpertsPage() {
     return (
         <div>
@@ -22,17 +22,25 @@ function OurexpertsPage() {
             </div>
             </div>
             </div>
-
-                    <div className='aboutblue'>About </div> 
-                    {/* <div className='blueright'>
+ <div>          <div className='aboutblue'>About </div> 
+<Grid
+  container
+  direction="row-reverse"
+  justify="flex-start"
+  alignItems="flex-start"
+>
+   
+    <div className='blueright'>
                     <img
                             className='imageabout'
                             src={Expert}
                             alt='expert'
                         />
-                    </div> */}
+                    </div>
 
+</Grid>
 
+</div>
 <div className='headingabout'>The Story of<br /> Shwetha Dentistry</div>
 <div className='desabout'>Shwetha Dentistry in Kalaburagi city is proving itself to be a trendsetter in bringing the latest world-class treatment facilities at<br /> an affordable cost to the doorsteps of needy patients in Karnataka. Be it establishing a super speciality dental hospital or <br />introducing altogether a new concept of one-visit dentistry, Shwetha Dentistry has many firsts not only in Hyderabad-<br />Karnataka region but also in the whole of Karnataka.</div>
 <div className='manmythabout'>The Man, The Myth, The Legend.</div>

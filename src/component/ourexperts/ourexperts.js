@@ -7,7 +7,7 @@ import BottomNav from '../bottomnav/bottomnav.js';
 import Nav from '../../assets/icons8-menu-24.png'
 import Play from '../../assets/hiclipart.com.png'
 import Expertteethleft from '../../assets/NoPath - Copy (4)@2x.png'
-// import Imageslider from '../imageslider/imageslider'
+import Grid from '@material-ui/core/Grid';
 function OurexpertsPage() {
   return (
     <div>
@@ -25,13 +25,26 @@ function OurexpertsPage() {
             </div>
             </div>
             </div>
-            {/* <div className='blueright'>
+            
+            <div>
+              
+<Grid
+  container
+  direction="row-reverse"
+  justify="flex-start"
+  alignItems="flex-start"
+>
+<div className='blueright1'>
             <img
-              className='imageblueright'
+              className='imageblueright11'
               src={Expert}
               alt='expert'
             />
-          </div>   */}
+              </div>
+</Grid>
+</div>
+
+           
 
 
          

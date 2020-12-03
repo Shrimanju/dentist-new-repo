@@ -61,16 +61,43 @@
         
              
 }
+// .blue{
+//     padding-bottom: 73px;
+//     margin-top: -116px;
+// .bluerighttreatement{
+//     display: inline-flex;
+// width: 100%;
+//     max-width: 465px;
+//     height: 688px;
+// min-width: 111px;
+//     background: transparent linear-gradient(180deg, #71D1CA 0%, #175C64 100%) 0% 0% no-repeat padding-box;
+//     box-shadow: 0px 3px 6px #00000029;
+
+// }
 .blueright{
-    display: flex;
-    float: right;
+    display: inline-flex;
+    margin-top: -246px;
    margin-right: 0px;
-     width: 465px;
-     height: 688px;
-     // margin-top: 265%;
+     width: 585px;
+     height: 488px;
      background: transparent linear-gradient(180deg, #71D1CA 0%, #175C64 100%) 0% 0% no-repeat padding-box;
      box-shadow: 0px 3px 6px #00000029;
      opacity: 1
+}
+.imageabout{
+    display: inline-flex;
+    width: 100%;
+    min-width: 100px;
+    width: 800px;
+    height: 526px;
+    opacity: 1;
+ margin-top: 250px;
+margin-left: -90%;
+
+    // -webkit-box-shadow: 5px 5px 5px;
+
+    box-shadow: -12px 10px 10px 1px #aaaaaa;
+
 }
 .aboutblue{
     width: 100%;
@@ -84,6 +111,7 @@
     
     }
     .headingabout{
+        padding-top: 30%;
 padding-left:70px ;
          text-align: left;
          font: normal normal bold 56px/57px SF UI Display;
@@ -440,22 +468,7 @@ opacity: 1;
 
 
 
-.imageabout{
-    display: flex;
-    position: absolute;
-align-items: center;
-    width: 800px;
-    height: 526px;
-    opacity: 1;
- margin-top: 250px;
-margin-left: -40%;
 
-
-    // -webkit-box-shadow: 5px 5px 5px;
-
-    box-shadow: -12px 10px 10px 1px #aaaaaa;
-
-}
 
 
 

@@ -78,7 +78,7 @@ opacity: 1;
 {
 display: flex;
 padding-left: 77px;
-padding-top: 120px;
+margin-top: -510px;
     text-align: left;
     font: normal normal bold 50px/50px SF UI Display;
     letter-spacing: 0px;
@@ -258,26 +258,23 @@ line-height: 20px;
     padding-bottom: 73px;
     margin-top: -116px;
 .bluerighttreatement{
-    display: flex;
-   float: right;
-  margin-right: 0px;
-    width: 465px;
+    display: inline-flex;
+width: 100%;
+    max-width: 465px;
     height: 688px;
-    // margin-top: 265%;
+min-width: 111px;
     background: transparent linear-gradient(180deg, #71D1CA 0%, #175C64 100%) 0% 0% no-repeat padding-box;
     box-shadow: 0px 3px 6px #00000029;
-    opacity: 1
 
 }
 .imageblueright{
-    display: flex;
-flex-flow: row;
-    // float: right;
+    display: inline-flex;
+width: 100%;
+min-width: 100px;
     width: 600px;
     height: 486px;
-    opacity: 1;
- margin-top: 59px;
-margin-left: -60%;
+ margin-top: 69px;
+padding-left: 10px;
 box-shadow: 1px 6px 20px #00000029;
             -webkit-box-shadow:20px 28px 21px 2px rgba(68,68,68,0.6);
           
