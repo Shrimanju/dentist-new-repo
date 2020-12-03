@@ -1,0 +1,129 @@
+
+.bottomblues{
+  width: 100%;
+  height:100%;
+  background: transparent linear-gradient(180deg, #FFFFFF 0%, #46C1BB 41%, #175C64 100%) 0% 0% no-repeat padding-box;
+      padding-top: 0%;  
+         padding-bottom: 110px;
+     
+         z-index: 10;
+}
+        .schedule-heading{
+          padding-top: 200px;
+          padding-bottom:50px;
+     margin-left: -50px;
+          display: flex;
+          justify-content: center;
+          letter-spacing: 10px;
+          font-weight: bolder;
+          color: white;
+        //  font-size: 60px;
+          font-family: sans-serif;
+        }
+        
+@media (min-width: 568px) 
+{
+
+   h1
+   {
+       font-size:44px;
+   }
+}
+@media (min-width: 1068px) 
+{
+
+   h1
+   {
+       font-size:54px;
+   }
+}
+    input::-webkit-input-placeholder {
+      font-family: sans-serif;
+      color:white;
+      transform:translate3d(0px,-5px,-21px)
+    
+      
+  }
+  
+::-webkit-input-placeholder {
+
+  text-align: left;
+  padding-left: 0%;
+}
+form {
+    // display: flex; /* 2. display flex to the rescue */
+    flex-direction: row;
+  }
+input {
+    display: inline-block; /* 1. oh noes, my inputs are styled as block... */
+
+  }
+  .inputs11 {
+    text-align: center;
+   width: 240px;
+   height:50px ;  
+  border:none;
+  display: inline-flex;
+  border-bottom: 1px solid rgb(196, 194, 194);
+  background-color: transparent;
+  outline: none;
+ padding-right: 1%;
+ margin-right: 4%;
+ 
+
+    
+}
+.inputs2 {
+  
+  border:none;
+  border-bottom: 1px solid rgb(196, 194, 194);
+  background-color: transparent;
+  outline: none;
+ padding-right: 1%;
+ margin-right: 4%;
+ display: inline-flex; 
+}
+
+
+
+.submitbutton1{
+  width: 250px;
+  height: 33px;
+  box-shadow: none !important;
+  border: none;
+margin-bottom: 10px;
+ margin-top: 19px;
+ margin-right: 3%;
+ margin-left: -4%;
+text-align: left;
+font: normal normal bold 12px/18px SF UI Display;
+padding-left: 105px;
+padding-top: 0.3%;
+letter-spacing: 0px;
+font-family: sans-serif;
+color: #2B8987;
+  background: #FEFEFE 0% 0% no-repeat padding-box;
+  border-radius: 37px;
+  outline: none;
+}
+
+
+.callusbutton1{
+  width: 250px;
+  height: 33px;
+  box-shadow: none !important;
+  margin-top: 0px;
+  border: none;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 22px/28px SF UI Display;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal bold 12px/18px SF UI Display;
+padding-left: 105px;
+padding-top: 0.3%;
+letter-spacing: 0px;
+font-family: sans-serif;
+color: #2B8987;
+  background: #FEFEFE 0% 0% no-repeat padding-box;
+  border-radius: 37px;
+  outline: none;
+}

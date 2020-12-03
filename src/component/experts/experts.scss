@@ -1,0 +1,324 @@
+
+.backgroundexpert{
+    // width:1369px;
+    width: 100%;
+    height:100%;
+position: relative;
+
+.backgroundexperts {
+position: relative;
+   display: flex;
+
+&__logobox {
+    border-bottom-left-radius: 230px;
+    border-bottom-right-radius: 290px;
+    border-top-right-radius:0.459228515625px;
+    width: 300px;
+    height: 110px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 27px #0000001C;
+    opacity: 1;
+    &__threedotnav{
+             
+        margin-left: 60px;
+    margin-top: 40px; 
+    width: 10px;
+
+ 
+    }
+        &__logoimage{
+                                     
+    top: 50px;
+    margin-left: 35px;
+margin-top: -34px; 
+left: 171px;
+width: 30px;
+height: 30px;
+background: transparent linear-gradient(80deg, #179DAF 0%, #3BB29D 45%, #3FB299 49%, #64B882 82%, #72BB79 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+        }
+        &__Swetha{
+            width: 103px;
+                height: 21px;
+                opacity: 1;
+                font: normal normal 18px/20px SF UI Display;
+                color:#707070 0% 0% no-repeat padding-box;
+                font-family: sans-serif;
+                letter-spacing: 0px;
+                margin-top: 1px;
+                margin-left: 40px;
+                opacity: 100%;
+                display: inline-block;
+                white-space: nowrap;
+
+        }
+        &__dentistry{
+            width: 77px;
+                height: 8px;
+                opacity: 1;
+                font: normal normal 8px/8px SF UI Display;
+            color:#707070 0% 0% no-repeat padding-box;
+            font-family: sans-serif;
+            letter-spacing: 0px;
+            margin-top: -1px;
+            margin-left: 45px;
+            opacity: 100%;
+            white-space: nowrap;
+            display: flex;
+         }
+
+                    }
+
+
+
+
+
+}
+.blueleftdes
+{
+display: flex;
+padding-left: 77px;
+padding-top: 120px;
+    text-align: left;
+    font: normal normal bold 50px/50px SF UI Display;
+    letter-spacing: 0px;
+    font-family: sans-serif;
+    color: #313133;
+    opacity: 1;
+}
+.blueleftdessmall
+{
+ 
+    display: flex;
+    padding-left: 77px;
+    padding-top: 30px;
+text-align: left;
+font: normal normal 300 19px/16px SF UI Display;
+letter-spacing: 0px;
+color: #313133;
+font-family: sans-serif;
+line-height: 20px;
+}
+.number1{
+ 
+        padding-left:100px;
+        padding-top:60px;
+        text-align: left;
+        font: normal normal bold 70px/74px SF UI Display;
+        letter-spacing: 0px;
+        color: #309490;
+        font-family: sans-serif;
+        word-spacing: 50px;
+     }
+     .description12{
+   
+        padding-top: 11px;
+        padding-left: 87px;
+        text-align: left;
+        font: normal normal 300 12px/23px SF UI Display;
+        letter-spacing: 0px;
+        color: #309490;
+        font-family: sans-serif;
+      display: flex;
+        }
+        .description13{
+            padding-left: 80px;
+            // margin-top: -24px;
+        
+            font: var(--unnamed-font-style-normal) normal 300 19px/23px SF UI Display;
+            letter-spacing: var(--unnamed-character-spacing-0);
+            text-align: left;
+            font: normal normal 300 12px/23px SF UI Display;
+            letter-spacing: 0px;
+            color: #309490;
+            font-family: sans-serif;
+            opacity: 1;
+            white-space: nowrap;
+            display: flex;
+            }
+            .description14{
+            padding-left: 77px;
+            padding-bottom: 20px;
+            padding-top: 60px;
+                text-align: left;
+                font: normal normal 300 19px/16px SF UI Display;
+                letter-spacing: 0px;
+                font-family: sans-serif;
+                color: #313133;
+                letter-spacing: 0px;
+                line-height: 20px;
+                }
+                .description15{
+         padding-left: 77px;
+         padding-top: 10px;
+         padding-bottom: 90px;
+
+                    text-align: left;
+                    font: normal normal 300 19px/16px SF UI Display;
+                    letter-spacing: 0px;
+                    color: #313133;
+                    font-family: sans-serif;
+
+                    letter-spacing: 0px;
+                    line-height: 20px;
+                    }
+
+                    .treatmentheading1{
+                        padding-top: 170px;
+                    margin-left: -350px;
+                        text-align: right;
+                        font: normal normal bold 50px/59px SF UI Display;
+                        letter-spacing: 0px;
+                        color: #313133;
+                        opacity: 1; 
+                        white-space: nowrap;
+                        font-family: sans-serif;
+                                                  
+                    }
+                    
+                    .treatmentdes{
+                
+                    padding-top: 41px;
+                    text-align: right;
+                    font: normal normal 300 20px/30px SF UI Display;
+                    letter-spacing: 0px;
+                    color: #313133;
+                    opacity: 1;
+                    line-height: 20px;
+                    
+                    }
+                    .number20{
+                     
+                        height: 158px;
+                        padding-left:160px;
+                        padding-top:37px;
+                        text-align: right;
+                        font: normal normal bold 70px/74px SF UI Display;
+                        color: #309490;
+                        font-family: sans-serif;
+                        word-spacing: 50px;
+                     }
+                    
+                     .description21{
+                      
+                        padding-left: 320px;
+                        padding-bottom: 0px;
+                        padding-top: 0%;
+                        margin-top: -40px;
+                        text-align: right;
+                        font: normal normal 300 12px/23px SF UI Display;
+                        letter-spacing: 0px;
+                        color: #309490;
+                        font-family: sans-serif;
+                        display: flex;
+                        }
+                        .description22{
+                           
+                            width: 121px;
+                            height: 0px;
+                            padding-left: 510px;
+                            padding-bottom: 43px;
+                            margin-top: -22px;
+                            text-align: right;
+                            font: normal normal 300 12px/23px SF UI Display;
+                            letter-spacing: 0px;
+                            color: #309490;
+                            font-family: sans-serif;
+                            display: flex;
+                            }
+                            .description23{
+                            
+                                margin-left: -450px;                       
+                                 padding-top:10%;
+                                padding-bottom: 2%;
+                                text-align: right;
+                                font: normal normal 300 19px/16px SF UI Display;
+                                letter-spacing: 0px;
+                                font-family: sans-serif;
+                                color: #313133;
+                                opacity: 1;
+                                letter-spacing: 0px;
+                                line-height: 20px;
+                                }
+                                .description24{
+                                
+                                    font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+                                    letter-spacing: var(--unnamed-character-spacing-0);
+                                    text-align:right;
+                                    font: normal normal 300 19px/16px SF UI Display;
+                                    letter-spacing: 0px;
+                                    color: #313133;
+                                    font-family: sans-serif;
+                                    opacity: 1;
+                                    letter-spacing: 0px;
+                                    line-height: 20px;
+                                    }
+
+.blue{
+    padding-bottom: 73px;
+    margin-top: -116px;
+.bluerighttreatement{
+    display: flex;
+   float: right;
+  margin-right: 0px;
+    width: 465px;
+    height: 688px;
+    // margin-top: 265%;
+    background: transparent linear-gradient(180deg, #71D1CA 0%, #175C64 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1
+
+}
+.imageblueright{
+    display: flex;
+flex-flow: row;
+    // float: right;
+    width: 600px;
+    height: 486px;
+    opacity: 1;
+ margin-top: 59px;
+margin-left: -60%;
+box-shadow: 1px 6px 20px #00000029;
+            -webkit-box-shadow:20px 28px 21px 2px rgba(68,68,68,0.6);
+          
+}
+
+
+ 
+            
+       
+            }
+
+
+            &__meetdoctor{
+               margin-bottom:400px;
+            &__treatmentblueleft{
+                display: flex;
+                // top: 12px;
+                left: -2.7177734375px;
+                width: 508px;
+                height: 580px;
+                // margin-top: 265%;
+                background: transparent linear-gradient(180deg, #71D1CA 0%, #175C64 100%) 0% 0% no-repeat padding-box;
+                box-shadow: 0px 3px 6px #00000029;
+                opacity: 1
+            
+            }
+            &__treatmentimage{
+                display: flex;
+            flex-flow: row;
+            margin-left: 15%;
+                padding-left: 0%;
+                width: 600px;
+                height: 416px;
+            
+             margin-top: 79px;
+            margin-right:250px;
+            // box-shadow: 0px 0px 0px #00000029;
+            // -webkit-box-shadow: -111px 1px 10px 10px rgba(68,68,68,0.6);
+          
+    box-shadow: -25px 10px 20px 1px rgba(68,68,68,0.6);
+            }
+            
+            }
+        }

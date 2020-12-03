@@ -1,0 +1,135 @@
+
+.bottomblacks1{
+  padding-top: 0%;
+      // overflow-y: hidden;
+      // overflow-x: hidden;
+      width:100%;
+        // height:100vh;
+        display: flex;
+        flex-direction:row;
+       padding-bottom: 5%;
+       margin: 0%;
+background: #333333 0% 0% no-repeat padding-box;
+box-shadow: 0px -47px 99px #00000029;
+opacity: 1;
+flex-direction: column;
+display: flex;
+&__box{
+margin-left: 100px;
+margin-top: 44px;
+opacity: 1;
+display: flex;
+background: #333333  0% 0% no-repeat padding-box;
+}
+
+}
+ .ourlocation1{
+    padding-left: 0%;
+    display: flex;
+    font:bold 21px/17px SF UI Display;
+    letter-spacing: 0px;
+    color: #F7F7F7;
+    font-family: sans-serif;
+    }
+    .ourlocationdes1{
+        padding-top: 10px;
+        font: normal normal 100 12px/20px SF UI Display;
+        letter-spacing: 0px;
+        color: #bbb9b9;
+        font-family: sans-serif;
+        }
+        .bottombutton11 {
+          width: 100%;
+          min-width: 50px; 
+          max-width: 150px;
+            height: 100%;
+            min-height: 5px; 
+          max-height: 30px;
+            margin-top: 8px;
+            display: inline-block;
+            font:bold 10px/12px SF UI Display;
+            font-family: sans-serif;
+            color: #F7F7F7;
+            border: 1px solid #FFFFFF;
+            border-radius: 18px;
+            background-color: transparent;
+            outline:none;
+           
+          }
+          .timing{
+            padding-left: 82px;
+            display: flex;
+            font:bold 21px/17px SF UI Display;
+            letter-spacing: 0px;
+            color: #F7F7F7;
+            font-family: sans-serif;
+            }
+            .timingdes{
+              padding-top: 10px;
+              padding-left: 82px;
+              font: normal normal 100 12px/20px SF UI Display;
+              letter-spacing: 0px;
+              color: #bbb9b9;
+              font-family: sans-serif;
+              }
+          .whatsapp1{
+            width: 100%;
+            min-width: 3px;
+            max-width: 20px;
+            min-height: 3px;
+            max-height: 20px;
+            height: 100%;
+            margin-top: 45px;
+           margin-left: 141px;
+         
+            display: flex;
+           
+          }
+          .youtube1{
+            width: 100%;
+            min-width: 10px;
+            max-width: 20px;
+            min-height: 10px;
+            max-height: 20px;
+            height: 100%;
+            margin-top: 45px;
+           margin-left: 20px;
+         
+            display: flex;
+          }
+          .twitter1{
+            width: 100%;
+            min-width: 10px;
+            max-width: 20px;
+            min-height: 10px;
+            max-height: 20px;
+            height: 100%;
+            margin-top: 45px;
+            margin-left: 20px;
+         
+            display: flex;
+          }
+          .facebook1{
+            width: 100%;
+            min-width: 10px;
+            max-width: 20px;
+            min-height: 10px;
+            max-height: 20px;
+            height: 100%;
+            margin-top: 45px;
+            margin-left: 20px;
+         
+            display: flex;
+          }
+          .instagram1{
+            width: 100%;
+            min-width: 3px;
+            max-width: 20px;
+            min-height: 3px;
+            max-height: 20px;
+            height: 100%;
+            margin-top: 45px;
+            margin-left: 20px;
+         
+            display: flex;
+          }

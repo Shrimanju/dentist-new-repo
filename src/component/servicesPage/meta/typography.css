@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');
+
+#end-title{
+    font-family: Roboto, sans-serif;
+    font-size:77px;
+    color:#3AA9A9;
+}
+
+#end-subtitle{
+    font-family: Roboto, sans-serif;
+    font-size:36px;
+}
+#text-div-1{
+    text-align: left;
+}
+
+.end-bold{
+    font-family: Roboto, sans-serif;
+    font-size: 46px !important;
+}
+
+.text-body{
+    font-family: Roboto, sans-serif;
+    font-size:30px;
+    font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+letter-spacing: var(--unnamed-character-spacing-0) !important;
+text-align: left;
+/* font: Roboto normal 300 25px/30px SF UI Display; */
+letter-spacing: 0px;
+color: #313133;
+opacity: 1;
+}

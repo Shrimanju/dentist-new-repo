@@ -1,0 +1,426 @@
+.backgroundexpert {
+  width: 1349px;
+  height: 100%;
+  position: relative;
+  -webkit-animation: myfirst 5s 2;
+          animation: myfirst 5s 2;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+}
+
+.backgroundexpert .backgroundexperts {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.backgroundexpert .backgroundexperts__logobox {
+  border-bottom-left-radius: 230px;
+  border-bottom-right-radius: 290px;
+  border-top-right-radius: 0.459228515625px;
+  width: 300px;
+  height: 110px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  -webkit-box-shadow: 0px 3px 27px #0000001C;
+          box-shadow: 0px 3px 27px #0000001C;
+  opacity: 1;
+}
+
+.backgroundexpert .backgroundexperts__logobox__threedotnav {
+  margin-left: 60px;
+  margin-top: 40px;
+  width: 10px;
+}
+
+.backgroundexpert .backgroundexperts__logobox__logoimage {
+  top: 50px;
+  margin-left: 35px;
+  margin-top: -34px;
+  left: 171px;
+  width: 30px;
+  height: 30px;
+  background: transparent linear-gradient(80deg, #179DAF 0%, #3BB29D 45%, #3FB299 49%, #64B882 82%, #72BB79 100%) 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.backgroundexpert .backgroundexperts__logobox__Swetha {
+  width: 103px;
+  height: 21px;
+  opacity: 1;
+  font: normal normal 18px/20px SF UI Display;
+  color: #707070 0% 0% no-repeat padding-box;
+  font-family: sans-serif;
+  letter-spacing: 0px;
+  margin-top: 1px;
+  margin-left: 40px;
+  opacity: 100%;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.backgroundexpert .backgroundexperts__logobox__dentistry {
+  width: 77px;
+  height: 8px;
+  opacity: 1;
+  font: normal normal 8px/8px SF UI Display;
+  color: #707070 0% 0% no-repeat padding-box;
+  font-family: sans-serif;
+  letter-spacing: 0px;
+  margin-top: -1px;
+  margin-left: 45px;
+  opacity: 100%;
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.backgroundexpert__blue {
+  padding-bottom: 7%;
+  margin-top: -9%;
+}
+
+.backgroundexpert__blue__bluerighttreatement {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  float: right;
+  margin-right: 0px;
+  width: 465px;
+  height: 688px;
+  background: transparent -webkit-gradient(linear, left top, left bottom, from(#71D1CA), to(#175C64)) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(180deg, #71D1CA 0%, #175C64 100%) 0% 0% no-repeat padding-box;
+  -webkit-box-shadow: 0px 3px 6px #00000029;
+          box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+}
+
+.backgroundexpert__blue__imageblueright {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row;
+          flex-flow: row;
+  width: 600px;
+  height: 486px;
+  opacity: 1;
+  margin-top: 59px;
+  margin-left: -60%;
+  box-shadow: 1px 6px 20px #00000029;
+  -webkit-box-shadow: 20px 28px 21px 2px rgba(68, 68, 68, 0.6);
+}
+
+.backgroundexpert__blue__blueleftdes {
+  top: 111px;
+  left: 140px;
+  width: 676px;
+  height: 0px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-left: 5%;
+  padding-top: 15%;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 50px/50px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal bold 50px/50px SF UI Display;
+  letter-spacing: 0px;
+  font-family: sans-serif;
+  color: #313133;
+  opacity: 1;
+  white-space: nowrap;
+  -webkit-box-align: left;
+      -ms-flex-align: left;
+          align-items: left;
+}
+
+.backgroundexpert__blue__blueleftdessmall {
+  top: 111px;
+  width: 676px;
+  height: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-left: 5%;
+  padding-top: 8%;
+  font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal 300 19px/16px SF UI Display;
+  letter-spacing: 0px;
+  color: #313133;
+  opacity: 1;
+  font-family: sans-serif;
+  line-height: 20px;
+}
+
+.backgroundexpert__blue__number {
+  top: 680px;
+  left: 190px;
+  width: 76px;
+  height: 158px;
+  padding-left: 7%;
+  padding-top: 3%;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 70px/74px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal bold 70px/74px SF UI Display;
+  letter-spacing: 0px;
+  color: #309490;
+  font-family: sans-serif;
+  opacity: 1;
+  white-space: nowrap;
+  word-spacing: 50px;
+}
+
+.backgroundexpert__blue__description {
+  top: 787px;
+  left: 403px;
+  width: 121px;
+  height: 23px;
+  padding-left: 6%;
+  padding-bottom: 3px;
+  margin-top: -80px;
+  font: var(--unnamed-font-style-normal) normal 300 19px/23px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal 300 12px/23px SF UI Display;
+  letter-spacing: 0px;
+  color: #309490;
+  font-family: sans-serif;
+  opacity: 1;
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.backgroundexpert__blue__description1 {
+  top: 787px;
+  left: 403px;
+  width: 121px;
+  height: 23px;
+  padding-left: 265px;
+  padding-bottom: 3px;
+  margin-top: -30px;
+  font: var(--unnamed-font-style-normal) normal 300 19px/23px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal 300 12px/23px SF UI Display;
+  letter-spacing: 0px;
+  color: #309490;
+  font-family: sans-serif;
+  opacity: 1;
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.backgroundexpert__blue__description2 {
+  top: 899px;
+  left: 140px;
+  width: 959px;
+  height: 256px;
+  padding-left: 5%;
+  padding-top: 6%;
+  padding-bottom: 2%;
+  font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal 300 19px/16px SF UI Display;
+  letter-spacing: 0px;
+  font-family: sans-serif;
+  color: #313133;
+  opacity: 1;
+  letter-spacing: 0px;
+  line-height: 20px;
+}
+
+.backgroundexpert__blue__description3 {
+  top: 899px;
+  left: 140px;
+  width: 959px;
+  height: 56px;
+  padding-left: 5%;
+  margin-top: -7%;
+  font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal 300 19px/16px SF UI Display;
+  letter-spacing: 0px;
+  color: #313133;
+  font-family: sans-serif;
+  opacity: 1;
+  letter-spacing: 0px;
+  line-height: 20px;
+}
+
+.backgroundexpert__meetdoctor {
+  margin-bottom: 400px;
+}
+
+.backgroundexpert__meetdoctor__treatmentblueleft {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  left: -2.7177734375px;
+  width: 508px;
+  height: 580px;
+  background: transparent -webkit-gradient(linear, left top, left bottom, from(#71D1CA), to(#175C64)) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(180deg, #71D1CA 0%, #175C64 100%) 0% 0% no-repeat padding-box;
+  -webkit-box-shadow: 0px 3px 6px #00000029;
+          box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+}
+
+.backgroundexpert__meetdoctor__treatmentimage {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row;
+          flex-flow: row;
+  margin-left: 15%;
+  padding-left: 0%;
+  width: 600px;
+  height: 416px;
+  margin-top: 79px;
+  margin-right: 250px;
+  -webkit-box-shadow: -25px 10px 20px 1px rgba(68, 68, 68, 0.6);
+          box-shadow: -25px 10px 20px 1px rgba(68, 68, 68, 0.6);
+}
+
+.backgroundexpert__meetdoctor__treatmentheading {
+  width: 100%;
+  height: 19px;
+  padding-top: 40%;
+  margin-left: -30%;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 66px/79px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: right;
+  font: normal normal bold 50px/59px SF UI Display;
+  letter-spacing: 0px;
+  color: #313133;
+  opacity: 1;
+  white-space: nowrap;
+  font-family: sans-serif;
+}
+
+.backgroundexpert__meetdoctor__treatmentdes {
+  top: 1306px;
+  left: 140px;
+  padding-top: 5%;
+  font: var(--unnamed-font-style-normal) normal 300 20px/25px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: right;
+  font: normal normal 300 20px/30px SF UI Display;
+  letter-spacing: 0px;
+  color: #313133;
+  opacity: 1;
+  font-family: sans-serif;
+  line-height: 20px;
+}
+
+.backgroundexpert__meetdoctor__number {
+  height: 158px;
+  padding-left: 160px;
+  padding-top: 7%;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 70px/74px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: right;
+  font: normal normal bold 70px/74px SF UI Display;
+  letter-spacing: 0px;
+  color: #309490;
+  font-family: sans-serif;
+  opacity: 1;
+  white-space: nowrap;
+  word-spacing: 50px;
+}
+
+.backgroundexpert__meetdoctor__description {
+  top: 787px;
+  left: 403px;
+  width: 121px;
+  height: 23px;
+  padding-left: 200px;
+  padding-bottom: 3px;
+  margin-top: -80px;
+  font: var(--unnamed-font-style-normal) normal 300 19px/23px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: right;
+  font: normal normal 300 12px/23px SF UI Display;
+  letter-spacing: 0px;
+  color: #309490;
+  font-family: sans-serif;
+  opacity: 1;
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.backgroundexpert__meetdoctor__description1 {
+  top: 787px;
+  left: 403px;
+  width: 121px;
+  height: 23px;
+  padding-left: 380px;
+  padding-bottom: 3px;
+  margin-top: -30px;
+  font: var(--unnamed-font-style-normal) normal 300 19px/23px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: right;
+  font: normal normal 300 12px/23px SF UI Display;
+  letter-spacing: 0px;
+  color: #309490;
+  font-family: sans-serif;
+  opacity: 1;
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.backgroundexpert__meetdoctor__description2 {
+  top: 899px;
+  left: 140px;
+  width: 959px;
+  height: 256px;
+  margin-left: -450px;
+  padding-top: 10%;
+  padding-bottom: 2%;
+  font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: right;
+  font: normal normal 300 19px/16px SF UI Display;
+  letter-spacing: 0px;
+  font-family: sans-serif;
+  color: #313133;
+  opacity: 1;
+  letter-spacing: 0px;
+  line-height: 20px;
+}
+
+.backgroundexpert__meetdoctor__description3 {
+  top: 899px;
+  left: 140px;
+  width: 959px;
+  margin-left: -450px;
+  margin-top: -14%;
+  font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: right;
+  font: normal normal 300 19px/16px SF UI Display;
+  letter-spacing: 0px;
+  color: #313133;
+  font-family: sans-serif;
+  opacity: 1;
+  letter-spacing: 0px;
+  line-height: 20px;
+}
+/*# sourceMappingURL=experts.css.map */

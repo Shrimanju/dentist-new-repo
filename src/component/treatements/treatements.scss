@@ -1,0 +1,695 @@
+.backgroundtreatment{
+    width:1654px;
+    height: 800px;
+position: relative;
+animation: myfirst 5s 2;
+animation-direction: alternate;
+.backgroundtreatments {
+    width:1654px;
+    height: 800px;
+  overflow: hidden;
+  background: transparent linear-gradient(0deg, #FFFFFF 0%, #46C1BB 41%, #175C64 100%) 0% 0% no-repeat padding-box;
+position: relative;
+  display: flex;
+justify-content: space-between;
+
+&__logobox {
+    border-bottom-left-radius: 230px;
+    border-bottom-right-radius: 290px;
+    border-top-right-radius:0.459228515625px;
+    width: 330px;
+    height: 110px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 27px #0000001C;
+    opacity: 1;
+        &__logoimage{
+               
+            top: 50px;
+            margin-left: 55px;
+        margin-top: 30px; 
+        left: 171px;
+        width: 40px;
+        height: 40px;
+        background: transparent linear-gradient(80deg, #179DAF 0%, #3BB29D 45%, #3FB299 49%, #64B882 82%, #72BB79 100%) 0% 0% no-repeat padding-box;
+        opacity: 1;
+        }
+        &__Swetha{
+            width: 103px;
+            height: 21px;
+            opacity: 1;
+            font: normal normal 18px/20px SF UI Display;
+            color:#707070 0% 0% no-repeat padding-box;
+            font-family: sans-serif;
+            letter-spacing: 0px;
+            margin-top: 5px;
+            margin-left: 50px;
+            opacity: 100%;
+            display: inline-block;
+            white-space: nowrap;
+
+        }
+        &__dentistry{
+            width: 77px;
+            height: 8px;
+            opacity: 1;
+            font: normal normal 8px/8px SF UI Display;
+        color:#707070 0% 0% no-repeat padding-box;
+        font-family: sans-serif;
+        letter-spacing: 0px;
+        margin-top: -1px;
+        margin-left: 55px;
+        opacity: 100%;
+        white-space: nowrap;
+        display: flex;
+         }
+
+                    }
+
+&__text{
+&__wherescience{
+top: 20%;
+left:18%;
+width: 0%;
+height: 0%;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 100px/134px SF UI Display;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal bold 70px/74px SF UI Display;
+letter-spacing: 0px;
+color: white;
+font-family: sans-serif;
+letter-spacing: 20px;
+text-transform: uppercase;
+opacity: 100%;
+position: absolute;
+clear: both;
+display: inline-block;
+// overflow: hidden;
+white-space: nowrap;
+display: flex;
+}
+&__meetsart{
+    top: 30%;
+    left:27%;
+    width: 0%;
+    height: 0%;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 100px/134px SF UI Display;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: center;
+    color: white;
+    font: normal normal bold 70px/74px SF UI Display;
+    letter-spacing: 0px;
+    color: white;
+    letter-spacing: 20px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    opacity: 100%;
+    position: absolute;
+    clear: both;
+    display: inline-block;
+    // overflow: hidden;
+    white-space: nowrap;
+    display: flex;
+    }
+}
+&__cloudleft {
+    top: 100vh;
+    // left: -5740.46484375px;
+    margin-top: 30%;
+    margin-bottom:0px;
+    margin-left: -70%;
+    margin-right: 0%;
+    width: 150%;
+    height: 70%;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display:inline-flex;
+    padding-right: 10px;
+
+}
+&__cloudright{
+    top: 100vh;
+    left: 1276px;
+    margin-top: 30%;
+    margin-bottom:10px;
+    margin-left: 90px;
+    margin-right: 30%;
+    width: 100%;
+    height: 50%;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display:flex;
+    padding-right: 10px;
+}
+&__teeth{
+    top: 100vh;
+    left: -5740.46484375px;
+    margin-top: 85%;
+    margin-bottom:0px;
+    margin-left: -740px;
+
+    // margin-right:-600px;
+    padding-left: 390px;
+    width: 664px;
+    height: 564px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: flex;
+           
+ }
+
+ 
+
+}
+&__blue{
+    padding-bottom: 7%;
+    // margin-top: -80%;
+&__bluerighttreatement{
+    display: flex;
+   float: right;
+    left: -2.7177734375px;
+    width: 708px;
+    height: 548px;
+    // margin-top: 265%;
+    background: transparent linear-gradient(180deg, #71D1CA 0%, #175C64 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1
+
+}
+&__blueleftdes
+{
+top: 1691px;
+left: 140px;
+width: 676px;
+height: 239px;
+display: flex;
+padding-left: 4%;
+padding-top: 15%;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 66px/80px SF UI Display;
+text-align: left;
+font: normal normal bold 46px/60px SF UI Display;
+font-family: sans-serif;
+letter-spacing: 1.19px;
+color: #393939;
+opacity: 1;
+white-space: nowrap;
+}
+&__blueleftdessmall
+{
+ 
+    width: 549px;
+    height: 133px;
+    padding-left: 4%;
+  
+    font: var(--unnamed-font-style-normal) normal 300 21px/36px SF UI Display;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal 300 21px/36px SF UI Display;
+    letter-spacing: 0px;
+    color: #313133;
+    font-family: sans-serif;
+white-space: nowrap;
+}
+.button{
+    width: 290px;
+    height: 33px;
+    box-shadow: none !important;
+    margin-top: 8px;
+    border: none;
+   white-space: nowrap;
+   display: inline;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 22px/28px SF UI Display;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal bold 12px/18px SF UI Display;
+
+letter-spacing: 0px;
+font-family: sans-serif;
+color: #2B8987;
+background: #69C6C0 0% 0% no-repeat padding-box;
+border-radius: 37px;
+opacity: 1;
+    border-radius: 37px;
+    outline: none;
+}
+
+
+}
+
+&__treatements{
+
+    padding-bottom: 13%;
+
+    &__treatmentheading
+    {
+  
+    width: 676px;
+    height: 100px;
+    display: flex;
+    padding-left: 4%;
+    padding-top: 15%;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 66px/80px SF UI Display;
+    text-align: left;
+    font: normal normal bold 46px/60px SF UI Display;
+    font-family: sans-serif;
+    letter-spacing: 1.19px;
+    color: #393939;
+    opacity: 1;
+    white-space: nowrap;
+    }
+
+
+
+
+&__blueleftdessmall
+{
+ 
+    width: 549px;
+    height: 100px;
+    padding-left: 4%;
+    margin-top: -2%;
+    font: var(--unnamed-font-style-normal) normal 300 21px/36px SF UI Display;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal 300 21px/36px SF UI Display;
+    letter-spacing: 0px;
+    color: #313133;
+    font-family: sans-serif;
+white-space: nowrap;
+}
+.tratmentbutton{
+    top: 2896px;
+left: 141px;
+width: 164px;
+height: 48px;
+background: #69C6C0 0% 0% no-repeat padding-box;
+border-radius: 37px;
+opacity: 1;
+// border:none;
+outline:none;
+margin-left: 5%;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-20)/25px SF UI Display;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal bold 20px/25px SF UI Display;
+letter-spacing: 0px;
+color: #F7F7F7;
+
+}
+.styledtreatment{
+ padding-left: 5%;
+margin-top: -7%;
+ padding-right: -11%;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 196px/330px SF UI Display;
+text-align: left;
+font: normal normal bold 116px/120px SF UI Display;
+letter-spacing: 39.79px;
+color: #000000;
+text-transform: uppercase;
+font-family: sans-serif;
+opacity: 0.1;
+}
+}
+
+&__meetdoctor{
+    padding-bottom: 15%;
+.treatmentblueleft{
+    display: flex;
+    // top: 12px;
+    left: -2.7177734375px;
+    width: 508px;
+    height: 580px;
+    // margin-top: 265%;
+    background: transparent linear-gradient(180deg, #71D1CA 0%, #175C64 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1
+
+}
+.treatmentheading{
+    width: 100%;
+    height: 19px;
+    padding-top: 40%;
+margin-left: -30%;
+    
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 66px/79px SF UI Display;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: right;
+    font: normal normal bold 50px/59px SF UI Display;
+    letter-spacing: 0px;
+    color: #313133;
+    opacity: 1; 
+    white-space: nowrap;
+    
+    font-family: sans-serif;
+                              
+}
+
+.treatmentdes{
+    top: 1306px;
+left: 140px;
+// width: 1058px;
+// height: 60px;
+
+// padding-top: 5%;
+font: var(--unnamed-font-style-normal) normal 300 20px/25px SF UI Display;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: right;
+font: normal normal 300 20px/30px SF UI Display;
+letter-spacing: 0px;
+color: #313133;
+opacity: 1;
+}
+.treatmentimage{
+    display: flex;
+flex-flow: row;
+    padding-left: 15%;
+    width: 700px;
+    height: 516px;
+    opacity: 1;
+ margin-top: 79px;
+margin-right:250px;
+
+    box-shadow: 1px 6px 20px #00000029;
+    -webkit-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+
+}
+.tratmentbutton1{
+    top: 2896px;
+left: 141px;
+width: 164px;
+height: 48px;
+background: #69C6C0 0% 0% no-repeat padding-box;
+border-radius: 37px;
+opacity: 1;
+// border:none;
+outline:none;
+margin-left: 5%;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-20)/25px SF UI Display;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal bold 20px/25px SF UI Display;
+letter-spacing: 0px;
+color: #F7F7F7;
+
+}
+}
+&__dentaltourism{
+    &__left{
+    // position: relative;
+    padding-bottom: 10%;
+    .dentaltourismheading{
+        width: 477px;
+        height: 79px;
+  margin-bottom: 0%;
+        padding-left:10% ;
+        margin-top: -1%;
+        font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 66px/79px SF UI Display;
+        letter-spacing: var(--unnamed-character-spacing-0);
+        text-align: left;
+        font: normal normal bold 50px/59px SF UI Display;
+        letter-spacing: 0px;
+        color: #313133;
+        opacity: 1; 
+        white-space: nowrap;
+        
+        font-family: sans-serif;
+                                  
+    }
+    
+    .paidverification{
+        margin-top: -2%;
+        padding-bottom: 2%;
+padding-left:10% ;
+width: 480px;
+height: 31px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 26px/36px SF UI Display;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal bold 20px/26px SF UI Display;
+letter-spacing: 0p
+    }
+    .dentaltourismdes{
+    //     top: 1306px;
+    // left: 140px;
+    width: 671px;
+    height: 130px;
+    padding-left:10% ;
+   
+    font: var(--unnamed-font-style-normal) normal 300 20px/25px SF UI Display;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal 300 20px/30px SF UI Display;
+    letter-spacing: 0px;
+    color: #313133;
+    opacity: 1;
+    }
+    .tratmentbutton{
+        top: 2896px;
+    left: 141px;
+    width: 164px;
+    height: 48px;
+    background: #69C6C0 0% 0% no-repeat padding-box;
+    border-radius: 37px;
+    opacity: 1;
+    // border:none;
+    outline:none;
+    margin-left: 10%;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-20)/25px SF UI Display;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: center;
+    font: normal normal bold 20px/25px SF UI Display;
+    letter-spacing: 0px;
+    color: #F7F7F7;
+    }
+    }
+    &__right{
+    .dentaltourismteeth{
+        top: -3vh;
+        left: -400px;
+       
+    float: right;
+margin-top: -30%;
+       position: relative;
+        width: 664px;
+        height: 564px;
+        background: transparent 0% 0% no-repeat padding-box;
+        opacity: 1;
+        display: flex;
+    }  
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+&__bottomblue{
+padding-bottom: 10%;
+    .bluecolor{
+    //     top: 5683px;
+    // left: -19px;
+    width: 1650px;
+    height: 150px;
+    background: transparent linear-gradient(180deg, #FFFFFF 0%, #46C1BB 0%, #175C64 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+    .numbers{
+      padding-left: 8%;
+      padding-top: 5%;
+        font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 90px/94px SF UI Display;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal bold 90px/94px SF UI Display;
+letter-spacing: 0px;
+color: #F7F7F7;
+        opacity: 1;
+        white-space: nowrap;
+        word-spacing: 140px;
+font-family: sans-serif;
+    }
+    .numbersdes1{
+
+            display: flex;
+         width: 121px;
+         height: 23px;
+         padding-left: 6%;
+        //  padding-bottom: 3px;
+         margin-top: 10px;
+        
+         font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+         letter-spacing: var(--unnamed-character-spacing-0);
+         text-align: left;
+         font: normal normal 300 18px/20px SF UI Display;
+         letter-spacing: 0px;
+         color: #F7F7F7;
+         white-space: nowrap;
+         display: flex;
+         }
+         .numbersdes2{
+
+            display: flex;
+         width: 121px;
+         height: 20px;
+         padding-left: 156%;
+        //  padding-bottom: 3px;
+         margin-top: 6px;
+        
+         font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+         letter-spacing: var(--unnamed-character-spacing-0);
+         text-align: left;
+         font: normal normal 300 18px/20px SF UI Display;
+         letter-spacing: 0px;
+         color: #F7F7F7;
+         white-space: nowrap;
+         display: flex;
+         }
+         .numbersdes3{
+
+            display: flex;
+         width: 121px;
+         height: 23px;
+         padding-left: 156%;
+        //  padding-bottom: 3px;
+         margin-top: 1px;
+        
+         font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+         letter-spacing: var(--unnamed-character-spacing-0);
+         text-align: left;
+         font: normal normal 300 18px/20px SF UI Display;
+         letter-spacing: 0px;
+         color: #F7F7F7;
+         white-space: nowrap;
+         display: flex;
+         }
+         .numbersdes4{
+
+            display: flex;
+         width: 121px;
+         height: 23px;
+         padding-left: 56%;
+        //  padding-bottom: 3px;
+         margin-top: -2px;
+        
+         font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+         letter-spacing: var(--unnamed-character-spacing-0);
+         text-align: left;
+         font: normal normal 300 18px/20px SF UI Display;
+         letter-spacing: 0px;
+         color: #F7F7F7;
+         white-space: nowrap;
+         display: flex;
+         }
+         .numbersdes5{
+
+            display: flex;
+         width: 121px;
+         height: 23px;
+         padding-left: 56%;
+        //  padding-bottom: 3px;
+         margin-top: -3px;
+        
+         font: var(--unnamed-font-style-normal) normal 300 25px/30px SF UI Display;
+         letter-spacing: var(--unnamed-character-spacing-0);
+         text-align: left;
+         font: normal normal 300 18px/20px SF UI Display;
+         letter-spacing: 0px;
+         color: #F7F7F7;
+         white-space: nowrap;
+         display: flex;
+         }
+
+
+    }
+
+
+
+
+
+}
+.imageblueright{
+    display: flex;
+flex-flow: row;
+    // float: right;
+    width: 650px;
+    height: 416px;
+    opacity: 1;
+ margin-top: 59px;
+margin-left: -40%;
+
+    box-shadow: 1px 6px 20px #00000029;
+    -webkit-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+
+}
+.menu{
+    padding-left:25%;
+//   background-size: cover;
+//   flex-direction: row;
+  padding-top: 2.5%;
+  position: absolute;
+align-items: left;
+  
+  nav{
+    //   display: inline-block;
+    //   text-align: left;
+    //   flex-direction: row;
+     
+  
+            
+                 ul    {
+                  margin: 10px;
+                  // padding:0px;
+               display: inline-block;
+               display: inline;
+                list-style: none;
+                white-space: nowrap;
+              //   margin-left: 40%;
+             
+                  li{
+                      display: flex;
+                          margin-left: 1px;
+                          display: inline-block;
+                          padding:2%;
+                  
+                      a{
+                          font: normal normal 10px/10px SF UI Display;
+                          color:white;
+                          text-decoration: none;
+                          // font-size: 10px;
+                          font-family: sans-serif;
+                          letter-spacing: 1px;
+                          display: flex;
+                      }        
+                      
+                  }}}}
+                  .bluecentertreatement{
+margin-top: -25%;
+                    display: flex;
+                margin-left: 40%;
+                    left: -2.7177734375px;
+                    width: 290px;
+                    height: 709px;
+                    // margin-top: 265%;
+                    background: transparent linear-gradient(180deg, #46C1BB 0%, #175C64 100%) 0% 0% no-repeat padding-box;
+                    opacity: 1
+                
+                }
+
+
+
+
+

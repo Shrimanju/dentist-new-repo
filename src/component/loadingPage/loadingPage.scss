@@ -1,0 +1,186 @@
+.background {
+    width:1654px;
+    height: 800px;
+  overflow: hidden;
+  background: transparent linear-gradient(0deg, #FFFFFF 0%, #46C1BB 41%, #175C64 100%) 0% 0% no-repeat padding-box;
+position: relative;
+  display: flex;
+justify-content: space-between;
+
+&__logobox {
+    // border-bottom-left-radius: 230px;
+    // border-bottom-right-radius: 290px;
+    // border-top-right-radius:0.459228515625px;
+    width: 330px;
+    height: 110px;
+        &__logoimage{
+            position: absolute;
+            top: 25px;
+            left: 45px;
+        }
+        &__Swetha{
+            width: 103px;
+            height: 21px;
+            opacity: 1;
+            font: normal normal 18px/20px SF UI Display;
+            color:#707070 0% 0% no-repeat padding-box;
+            font-family: sans-serif;
+            letter-spacing: 0px;
+            margin-top: 5px;
+            margin-left: 50px;
+            opacity: 100%;
+            display: inline-block;
+            white-space: nowrap;
+
+        }
+        &__dentistry{
+            width: 77px;
+            height: 8px;
+            opacity: 1;
+            font: normal normal 8px/8px SF UI Display;
+        color:#707070 0% 0% no-repeat padding-box;
+        font-family: sans-serif;
+        letter-spacing: 0px;
+        margin-top: -1px;
+        margin-left: 55px;
+        opacity: 100%;
+        white-space: nowrap;
+        display: flex;
+         }
+
+                    }
+
+&__text{
+&__wherescience{
+top: 20%;
+left:18%;
+width: 0%;
+height: 0%;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 100px/134px SF UI Display;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal bold 70px/74px SF UI Display;
+letter-spacing: 0px;
+color: white;
+font-family: sans-serif;
+letter-spacing: 20px;
+text-transform: uppercase;
+opacity: 100%;
+position: absolute;
+clear: both;
+display: inline-block;
+// overflow: hidden;
+white-space: nowrap;
+display: flex;
+}
+&__meetsart{
+    top: 30%;
+    left:27%;
+    width: 0%;
+    height: 0%;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 100px/134px SF UI Display;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: center;
+    color: white;
+    font: normal normal bold 70px/74px SF UI Display;
+    letter-spacing: 0px;
+    color: white;
+    letter-spacing: 20px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    opacity: 100%;
+    position: absolute;
+    clear: both;
+    display: inline-block;
+    // overflow: hidden;
+    white-space: nowrap;
+    display: flex;
+    }
+}
+&__cloudleft {
+    top: 100vh;
+    // left: -5740.46484375px;
+    margin-top: 30%;
+    margin-bottom:0px;
+    margin-left: -70%;
+    margin-right: 0%;
+    width: 150%;
+    height: 70%;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display:inline-flex;
+    padding-right: 10px;
+
+}
+&__cloudright{
+    top: 100vh;
+    left: 1276px;
+    margin-top: 30%;
+    margin-bottom:10px;
+    margin-left: 90px;
+    margin-right: 30%;
+    width: 100%;
+    height: 50%;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display:flex;
+    padding-right: 10px;
+}
+&__teeth{
+    top: 100vh;
+    left: -5740.46484375px;
+    margin-top: 85%;
+    margin-bottom:0px;
+    margin-left: -740px;
+
+    // margin-right:-600px;
+    padding-left: 390px;
+    width: 664px;
+    height: 564px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: flex;
+           
+ }
+}
+.menu{
+    padding-left:25%;
+//   background-size: cover;
+//   flex-direction: row;
+  padding-top: 2.5%;
+  position: absolute;
+align-items: left;
+  
+  nav{
+    //   display: inline-block;
+    //   text-align: left;
+    //   flex-direction: row;
+     
+  
+            
+                 ul    {
+                  margin: 10px;
+                  // padding:0px;
+               display: inline-block;
+               display: inline;
+                list-style: none;
+                white-space: nowrap;
+              //   margin-left: 40%;
+             
+                  li{
+                      display: flex;
+                          margin-left: 1px;
+                          display: inline-block;
+                          padding:2%;
+                  
+                      a{
+                          font: normal normal 10px/10px SF UI Display;
+                          color:white;
+                          text-decoration: none;
+                          // font-size: 10px;
+                          font-family: sans-serif;
+                          letter-spacing: 1px;
+                          display: flex;
+                      }        
+                  }}}}
+               
